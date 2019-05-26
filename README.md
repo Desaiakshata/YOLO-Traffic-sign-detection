@@ -12,3 +12,5 @@ Due to lack of GPU and memmory requirements, the accuracy results are bad.
 The weights required to run the model can be downloaded here https://pjreddie.com/darknet/yolo/
 
 The TT100K dataset and annotations file can be downloaded at https://cg.cs.tsinghua.edu.cn/traffic-sign/
+
+Parts of the code have been taken from Atindra Bandi's github repository.
