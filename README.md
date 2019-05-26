@@ -3,9 +3,7 @@ Red round traffic sign detection using object detection algorithm (YOLO) in Tens
 
 The detection of red round signs would have just one class. Images for running the model were downloaded from TT100K dataset. 
 
-Traffic signs occupy very small part of the entire image.
-
-Hence to have better train accuracy, augmentation techniques should be used.
+Traffic signs occupy very small part of the entire image. Hence to have better train accuracy, augmentation techniques should be used.
 
 The code in the .ipynb file was written and run on Google Collaboratory, which provides free access to GPU.
 
